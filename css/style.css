@@ -1,0 +1,38 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+	
+.zhuti .top{
+	background: powderblue;
+	text-align: center;
+	font-family: 楷体;
+	height: 100px;
+	padding-top: 30px;
+}
+
+.box{
+	margin: 0 auto;
+	overflow: hidden;
+	height: 700px;
+	width: 700px;
+	margin-top: 30px;
+	border-radius: 20px;
+	box-shadow: 2px  2px  15px  pink;
+
+}
+
+
+.box  img{
+	padding-left: 60px;
+
+	width: 500px;
+	height: 600px;
+	border-bottom: 1px solid  pink;
+}
+
+
+span{
+
+	padding-left: 45%;
+}
